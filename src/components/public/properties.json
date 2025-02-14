@@ -1,0 +1,193 @@
+{
+    "properties": [
+      {
+        "id": "prop1",
+        "type": "House",
+        "bedrooms": 3,
+        "price": 750000,
+        "tenure": "Freehold",
+        "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+        "location": "Petts Wood Road, Orpington BR5, London",
+        "coordinates": { "lat": 51.39073031529111, "lng": 0.08204058133083666 }, 
+        "longDescription": "This attractive three-bedroom semi-detached family home is ideally located within 0.5 miles of Petts Wood Station, offering convenient access to fast train services to London. The property is also within easy walking distance of local shops, reputable schools, frequent bus routes, and the serene National Trust woodland, making it an ideal choice for families seeking both connectivity and a tranquil lifestyle.\n\n The ground floor boasts a thoughtfully designed layout, featuring two spacious reception rooms, perfect for relaxing or entertaining. The centerpiece of the home is the impressive 18'9 x 10'1 fitted kitchen/breakfast room, which offers ample space for dining and culinary activities. Adjacent to this is a charming conservatory that floods the interior with natural light, providing an inviting space to enjoy the garden view throughout the year.\n Practicality is enhanced with the inclusion of a utility room and a cloakroom on the ground floor, catering to the everyday needs of a busy household.\n Upstairs, the first floor offers three well-proportioned bedrooms, ideal for family living or accommodating guests. The family bathroom is complemented by a separate WC, adding convenience for larger households.\nAdditional features of the property include double glazing and gas central heating, ensuring a comfortable and energy-efficient living environment. The interior is tastefully presented, with neutral tones and modern finishes that will appeal to a wide range of buyers.\n Externally, the property benefits from a well-maintained garden, perfect for outdoor activities or relaxing in a private setting. This delightful home combines practicality, style, and an enviable location, making it a must-see for discerning buyers.",
+        "floorPlan":"prop1/prop1_floorPlan.jpeg",
+        "picture": "prop1/1.jpeg",
+        "images": [
+          "prop1/1.jpeg",
+          "prop1/2.jpeg",
+          "prop1/3.jpeg",
+          "prop1/4.jpeg",
+          "prop1/5.jpeg",
+          "prop1/6.jpeg"
+        ],
+        "url": "properties/prop1.html",
+        "added": {
+          "month": "October",
+          "day": 12,
+          "year": 2022
+        }
+      },
+      {
+        "id": "prop2",
+        "type": "Flat",
+        "bedrooms": 2,
+        "price": 399995,
+        "tenure": "Freehold",
+        "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. This apartment being only five years old, is still under a 10 year building guarantee.",
+        "longDescription": "Presented in immaculate decorative order, this stylish two double-bedroom, two-bathroom garden flat offers a contemporary and highly functional living space. Perfectly designed for modern living, the property seamlessly blends elegance with practicality.\nThe heart of the home is the impressive open-plan living area, which features a sleek, modern fitted kitchen. The kitchen is equipped with high-end integrated appliances, including a dishwasher and washing machine, and is complemented by ample countertop space and storage. This flows effortlessly into the spacious living room, which showcases beautiful solid wooden flooring, creating a warm and inviting atmosphere.\nBi-folding doors extend the living space onto a secluded private courtyard garden, offering a perfect setting for al fresco dining, relaxation, or entertaining. The garden’s design ensures both privacy and a sense of tranquility, making it a unique feature of this apartment.\nBoth bedrooms are generously proportioned doubles, designed with comfort in mind and offering ample space for furnishings. The family bathroom features a stylish three-piece suite, complete with a shower attachment over the bath. Adding further convenience is a separate, fully tiled wet room, ideal for busy households or guests.\nThe flat is thoughtfully finished with high-quality walnut doors throughout, enhancing its luxurious appeal. It also benefits from modern wiring, including provisions for Sky TV and aerial points in the living room, kitchen, and both bedrooms, ensuring easy access to entertainment and connectivity.\nBeing only five years old, the property remains under a 10-year building guarantee, providing peace of mind for buyers. This flat is an exceptional opportunity to own a contemporary home that combines thoughtful design, modern features, and a highly desirable location.",
+        "location": "Crofton Road Orpington BR6, London",
+        "coordinates": { "lat": 51.37331979429059, "lng":  0.07210498564436604 },
+        "floorPlan":"prop2/prop2_floorPlan.jpeg",
+        "picture": "prop2/1.jpeg",
+        "images": [
+          "prop2/1.jpeg",
+          "prop2/2.jpeg",
+          "prop2/3.jpeg",
+          "prop2/4.jpeg",
+          "prop2/5.jpeg",
+          "prop2/6.jpeg",
+          "prop2/7.jpeg"
+        ],
+        "url": "properties/prop2.html",
+        "added": {
+          "month": "September",
+          "day": 14,
+          "year": 2022
+        }
+      },
+      {
+        "id": "prop3",
+        "type": "House",
+        "bedrooms": 4,
+        "price": 950000,
+        "tenure": "Freehold",
+        "description": "A stunning four bedroom detached house, located in a sought-after area with excellent schools and local amenities nearby. The property features a large living room with a feature fireplace, a modern fitted kitchen, and a spacious dining room. Upstairs, there are four generously sized bedrooms, including a master bedroom with an en-suite bathroom. The property also boasts a large garden, off-street parking, and a double garage.",
+        "longDescription": "Nestled in a highly sought-after area, this stunning four-bedroom detached house offers an ideal blend of comfort, style, and convenience. Perfectly positioned within easy reach of excellent schools and a range of local amenities, this property is an exceptional choice for families seeking a high-quality home in a prime location.\nThe ground floor welcomes you with a spacious and elegant living room, highlighted by a charming feature fireplace that adds warmth and character to the space. This room is perfect for relaxing or hosting guests, with large windows allowing an abundance of natural light to flow in. Adjacent to the living room is a modern, well-appointed kitchen, fitted with sleek cabinetry, high-quality appliances, and ample countertop space, making it a pleasure for cooking and entertaining.\nA generously sized dining room complements the layout, providing a stylish and versatile space for family meals or dinner parties. The seamless flow between the kitchen, dining room, and living areas enhances the home’s practicality and sense of openness.\nUpstairs, the property boasts four well-proportioned bedrooms, each designed with comfort in mind. The master bedroom stands out with its spacious layout, ample storage, and a private en-suite bathroom, offering a luxurious retreat within the home. The remaining bedrooms are equally impressive, ideal for children, guests, or a home office.\nThe outdoor space is equally inviting, featuring a large, beautifully landscaped garden that provides a perfect setting for outdoor activities, relaxation, or entertaining. The garden offers both privacy and space, making it a standout feature of the property.\nPracticality is further enhanced by off-street parking for multiple vehicles and a double garage, providing secure storage and convenience.\nThis exceptional home combines contemporary design, thoughtful features, and a prime location, making it a rare and highly desirable offering. A must-see for discerning buyers looking for the perfect family home.",
+        "location": "Bexley Lane, Bexley DA5, London",
+        "coordinates": { "lat": 51.42818628741724, "lng": 0.11517692829206091 }, 
+        "floorPlan":"prop3/prop3_floorPlan.jpeg",
+        "picture": "prop3/1.jpeg",
+        "images": [
+          "prop3/1.jpeg",
+          "prop3/2.jpeg",
+          "prop3/3.jpeg",
+          "prop3/4.jpeg",
+          "prop3/5.jpeg",
+          "prop3/6.jpeg"
+        ],
+        "url": "properties/prop3.html",
+        "added": {
+          "month": "August",
+          "day": 5,
+          "year": 2022
+        }
+      },
+      {
+        "id": "prop4",
+        "type": "Flat",
+        "bedrooms": 1,
+        "price": 250000,
+        "tenure": "Leasehold",
+        "description": "A one-bedroom flat ideal for first-time buyers or investors. The property benefits from an open-plan living and kitchen area, a double bedroom, and a modern bathroom. The flat is within walking distance of local shops, restaurants, and transport links to the city center. The property is currently tenanted with a good rental yield.",
+        "longDescription": "This charming one-bedroom flat is an excellent opportunity for first-time buyers or investors seeking a property with both convenience and potential. Situated in a desirable location, the flat offers easy access to local amenities and excellent transport links, making it a practical and attractive choice for a variety of buyers.\nThe property features a bright and inviting open-plan living and kitchen area. This versatile space is perfect for modern living, offering ample room for relaxation and dining. The kitchen is thoughtfully designed, with contemporary fixtures, ample storage, and integrated appliances, making it a functional and stylish hub for everyday use.\nThe double bedroom is generously proportioned, providing a comfortable retreat with plenty of space for wardrobes and additional furnishings. Large windows fill the room with natural light, creating a warm and pleasant atmosphere.\nThe modern bathroom is well-appointed, featuring sleek finishes and a clean, contemporary design. Equipped with a bathtub, overhead shower, and stylish fittings, it caters to both comfort and convenience.\nThe flat’s location is a key highlight, being within walking distance of a variety of shops, restaurants, and cafes, offering a vibrant lifestyle right on your doorstep. Additionally, excellent transport links provide quick and easy access to the city center, making it ideal for commuters.\nCurrently tenanted, the property generates a good rental yield, making it an appealing investment option. Whether you’re looking to step onto the property ladder or expand your portfolio, this flat offers a fantastic opportunity in a sought-after area.\nWith its modern features, prime location, and investment potential, this one-bedroom flat is a must-see for anyone looking to make a smart purchase.",
+        "location": "High Street, Bromley BR1, London",
+        "coordinates": { "lat": 51.403297966224976, "lng": 0.013997750379153002 }, 
+        "floorPlan":"prop4/prop4_floorPlan.jpeg",
+        "picture": "prop4/1.jpeg",
+        "images": [
+          "prop4/1.jpeg",
+          "prop4/2.jpeg",
+          "prop4/3.jpeg",
+          "prop4/4.jpeg"
+        ],
+        "url": "properties/prop4.html",
+        "added": {
+          "month": "July",
+          "day": 20,
+          "year": 2022
+        }
+      },
+      {
+        "id": "prop5",
+        "type": "House",
+        "bedrooms": 5,
+        "price": 1200000,
+        "tenure": "Freehold",
+        "description": "This grand five-bedroom family home is situated in a desirable area, offering generous living space. The ground floor features a large open-plan kitchen/dining room, a spacious living room, and a study. Upstairs, there are five bedrooms, including a master bedroom with an en-suite bathroom and walk-in wardrobe. The property also benefits from a well-maintained garden, driveway, and double garage.",
+        "longDescription": "This exceptional five-bedroom family home is a true gem, situated in a highly desirable area that combines tranquility with excellent connectivity and amenities. Designed to provide both comfort and functionality, the property offers an abundance of space and an array of modern features, making it the perfect choice for growing families or those who love to entertain.\nThe ground floor welcomes you with a stunning open-plan kitchen and dining area, which serves as the heart of the home. The kitchen is beautifully appointed with high-quality fixtures, sleek cabinetry, and integrated appliances, along with ample countertop space for culinary enthusiasts. The adjoining dining area is perfect for family meals or hosting gatherings, enhanced by large windows or bi-folding doors that allow natural light to flood the space and provide seamless access to the garden.\nThe spacious living room offers a warm and inviting atmosphere, ideal for relaxing with family or entertaining guests. A feature fireplace adds character, while the thoughtful layout ensures versatility. Additionally, the ground floor includes a dedicated study, providing a quiet space for work or study, a valuable addition for today’s lifestyles.\nUpstairs, the property boasts five generously sized bedrooms, each designed with comfort and style in mind. The master bedroom is a luxurious retreat, featuring a private en-suite bathroom and a walk-in wardrobe, offering both convenience and a touch of opulence. The remaining bedrooms are well-proportioned, perfect for children, guests, or additional uses such as a hobby room or home gym.\nThe outdoor space is equally impressive, with a beautifully maintained garden that provides a private and serene setting for relaxation or play. The garden is ideal for summer barbecues, gardening enthusiasts, or simply enjoying the outdoors in comfort.\nPractical features include a driveway with ample parking space and a double garage, ensuring secure storage for vehicles and additional belongings.\nWith its combination of grand living spaces, modern conveniences, and an enviable location, this five-bedroom family home offers a unique opportunity to enjoy a lifestyle of comfort, elegance, and practicality. It’s a property that truly has it all.",
+        "location": "Greenwood Road, Becken BR3, London",
+        "coordinates": { "lat": 51.400537811566814, "lng": -0.13631482556205343 }, 
+        "floorPlan":"prop5/prop5_floorPlan.jpeg",
+        "picture": "prop5/1.jpeg",
+        "images": [
+          "prop5/1.jpeg",
+          "prop5/2.jpeg",
+          "prop5/3.jpeg",
+          "prop5/4.jpeg",
+          "prop5/5.jpeg",
+          "prop5/6.jpeg"
+        ],
+        "url": "properties/prop5.html",
+        "added": {
+          "month": "June",
+          "day": 25,
+          "year": 2022
+        }
+      },
+      {
+        "id": "prop6",
+        "type": "Flat",
+        "bedrooms": 3,
+        "price": 500000,
+        "tenure": "Leasehold",
+        "description": "A spacious three-bedroom flat situated on the top floor of a well-maintained building. The property benefits from a large living room with a balcony, a separate kitchen, and three double bedrooms. The master bedroom includes an en-suite bathroom. The flat is ideally located near local shops and public transport, with easy access to London.",
+        "longDescription": "This spacious three-bedroom flat is perfectly situated on the top floor of a well-maintained and secure building, offering a combination of generous living space, modern amenities, and an enviable location. With its thoughtful layout and elevated position, this property provides an ideal retreat for families, professionals, or anyone seeking convenience and comfort.\nThe centerpiece of the home is the large and inviting living room, which boasts ample space for relaxation and entertaining. A set of sliding glass doors leads to a private balcony, offering a delightful outdoor space with views of the surrounding area—perfect for enjoying your morning coffee or unwinding after a busy day.\nThe separate kitchen is both stylish and functional, featuring modern fittings, ample storage, and workspace. Equipped with high-quality appliances, it caters to all your culinary needs while maintaining a contemporary aesthetic.\nThe flat offers three generously sized double bedrooms, each thoughtfully designed to maximize comfort and practicality. The master bedroom serves as a luxurious haven, complete with its own en-suite bathroom. This private space includes modern fixtures and fittings, adding a touch of sophistication. The remaining two bedrooms are equally well-proportioned and versatile, ideal for family members, guests, or as home office spaces.\nA well-appointed main bathroom complements the en-suite, offering convenience for larger households or visitors.\nSituated in a prime location, the property benefits from close proximity to local shops, restaurants, and amenities, ensuring everyday essentials are always within easy reach. Excellent public transport links provide quick and convenient access to London and beyond, making it ideal for commuters or those who enjoy city living.\nWith its spacious interiors, desirable features, and unbeatable location, this top-floor flat presents a fantastic opportunity to enjoy modern urban living in comfort and style. It’s a property that offers the perfect balance of practicality and elegance.",
+        "location": "Wells Road, Croydon CR0, London",
+        "coordinates": { "lat": 51.3613388740157, "lng": -0.08739832426198452 }, 
+        "floorPlan":"prop6/prop6_floorPlan.jpeg",
+        "picture": "prop6/1.jpeg",
+        "images": [
+          "prop6/1.jpeg",
+          "prop6/2.jpeg",
+          "prop6/3.jpeg",
+          "prop6/4.jpeg",
+          "prop6/5.jpeg",
+          "prop6/6.jpeg"
+        ],
+        "url": "properties/prop6.html",
+        "added": {
+          "month": "May",
+          "day": 10,
+          "year": 2022
+        }
+      },
+      {
+        "id": "prop7",
+        "type": "House",
+        "bedrooms": 6,
+        "price": 1500000,
+        "tenure": "Freehold",
+        "description": "This magnificent six-bedroom house is situated in a prestigious location. The property features a grand entrance hall, a large living room with panoramic views of the surrounding area, a fully equipped modern kitchen, and a separate dining area. The property also benefits from a heated swimming pool, a large garden, and ample parking.",
+        "longDescription": "Nestled in a prestigious and highly sought-after location, this magnificent six-bedroom house epitomizes luxury living at its finest. Combining timeless elegance with modern convenience, the property offers an abundance of space and stunning features, making it the ideal home for families or those who love to entertain on a grand scale.\nUpon entering, you are greeted by a grand entrance hall that sets the tone for the rest of the property. With its high ceilings, intricate detailing, and an impressive staircase, the hall exudes sophistication and provides a welcoming introduction to this exceptional home.\nThe expansive living room is a true centerpiece, offering breathtaking panoramic views of the surrounding area through large floor-to-ceiling windows. This space is perfect for both relaxation and entertaining, with an abundance of natural light and a seamless connection to the outdoors.\nThe fully equipped modern kitchen is a chef’s dream, featuring top-of-the-line appliances, sleek cabinetry, and ample countertop space. Whether preparing everyday meals or hosting dinner parties, this kitchen caters to all culinary needs with style and efficiency. Adjacent to the kitchen is a separate dining area, providing an elegant and intimate space for formal gatherings or family meals.\nThe property offers six generously proportioned bedrooms, each thoughtfully designed to ensure comfort and privacy. The master suite is a true sanctuary, complete with its own luxurious en-suite bathroom and ample storage. The additional bedrooms are equally well-appointed, offering flexibility for family members, guests, or even a home office or hobby room.\nThe outdoor spaces are equally impressive. A heated swimming pool provides year-round enjoyment and relaxation, while the expansive garden offers a beautifully landscaped retreat for outdoor activities, entertaining, or simply unwinding in privacy.\nPractical features include ample parking for multiple vehicles, ensuring convenience for both residents and visitors.\nThis stunning six-bedroom house combines grand proportions, exquisite features, and a prime location to create a home of unparalleled luxury. It’s a property that offers not only a lifestyle of comfort and elegance but also a rare opportunity to own a home in one of the most coveted areas.",
+        "location": "Kingswood Road, Dulwich SE21, London",
+        "coordinates": { "lat": 51.42889308123626, "lng": -0.080055962546902 }, 
+        "floorPlan":"prop7/prop7_floorPlan.jpeg",
+        "picture": "prop7/1.jpeg",
+        "images": [
+          "prop7/1.jpeg",
+          "prop7/2.jpeg",
+          "prop7/3.jpeg",
+          "prop7/4.jpeg",
+          "prop7/5.jpeg",
+          "prop7/6.jpeg"
+        ],
+        "url": "properties/prop7.html",
+        "added": {
+          "month": "April",
+          "day": 15,
+          "year": 2022
+        }
+      }
+    ]
+  }
+  
